@@ -1,0 +1,6 @@
+{
+  "name": "cache-meter",
+  "version": "0.1.0",
+  "description": "輸入框上方的面板：cache 倒數、5h／週用量、開發時間、input／output token",
+  "types": "./types/index.d.ts"
+}
